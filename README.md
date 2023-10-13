@@ -1,3 +1,3 @@
 # CommandCode
 
-An example for BYUI students of what a command design pattern looks like.
+An example written for BYUI students, specifically for the Programming with Classes course, of what a command design pattern looks like.
